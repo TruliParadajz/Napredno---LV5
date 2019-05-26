@@ -12,9 +12,11 @@ Here are hardcoded admin credentials as well as 1 teacher and 1 student credenti
 //ADMIN//
 username: nargz44@gmail.com
 password: admin
+
 //TEACHER//
 username: 1@gmail.com
 password: 1
+
 //STUDENT//
 username: 11@gmail.com
 password: 11
