@@ -7,12 +7,17 @@ After updating composer change database connection settings inside .env file (ho
 After successfully finishing previous steps run migrations and then run the project through your browser.
 
 Login by clicking on Login button when Laravel is shown in the middle of a page.
-Here are hardcoded admin credentials. The other users are created using random string generator or a faker library, depending on a table.
+Here are hardcoded admin credentials as well as 1 teacher and 1 student credential.
 
 //ADMIN//
 username: nargz44@gmail.com
 password: admin
-//ADMIN//
+//TEACHER//
+username: 1@gmail.com
+password: 1
+//STUDENT//
+username: 11@gmail.com
+password: 11
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
