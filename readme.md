@@ -1,3 +1,19 @@
+INSTRUCTIONS:
+
+Download project as a .zip and unpack it in your htdocs folder (XAMPP). After unpacking open your cmd or terminal inside a projekti folder and update composer.
+
+After updating composer change database connection settings inside .env file (host: localhost or 127...., username: root, password:, db: projekti). It is mandatory to create a database before running migrations.
+
+After successfully finishing previous steps run migrations and then run the project through your browser.
+
+Login by clicking on Login button when Laravel is shown in the middle of a page.
+Here are hardcoded admin credentials. The other users are created using random string generator or a faker library, depending on a table.
+
+//ADMIN//
+username: nargz44@gmail.com
+password: admin
+//ADMIN//
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
